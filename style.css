@@ -1,0 +1,43 @@
+body {
+    background: rgb(39, 39, 39);
+    font-family: "Arial", sans-serif;
+    color: white;
+    box-sizing: border-box;
+  }
+
+.title {
+    text-align: center;
+}
+
+.main {
+    font-size: 48px;
+}
+
+.link {
+    font-size: 24px;
+    background: white;
+    margin: auto;
+    margin-bottom: 12px;
+    padding: 12px;
+    border: 12px;
+    width: 180px;
+    text-align: center;
+}
+
+.content {
+    font-size: 20px;
+    background: rgb(48, 48, 48);
+    margin: auto;
+    margin-bottom: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.image {
+    display: block;
+    margin: auto;
+}
+
+.border {
+    border: 10px solid rgb(238, 206, 117);
+}
